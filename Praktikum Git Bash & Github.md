@@ -13,7 +13,7 @@ Silahkan kalian tuliskan langkah mengakses github dan login menggunakan akun git
 3. cek kembali konfigurasinya
 # Akses Folder Proyek di Git Bash
 gunakan perintah cd (change directory) sampai ke folder proyek kalian
-![cd](assets/change%20directory.jpg)
+![cd](assets/change%20directory.JPG)
 # Hubungkan Folder Proyek Lokal ke Github
 1. Inisialisasi repository `git init`
 2. Hubungkan ke repository github `git remote`
